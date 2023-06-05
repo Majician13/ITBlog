@@ -108,7 +108,7 @@
 
   <h2>Contact</h2>
   <p>
-    If you have any questions, suggestions, or feedback regarding the IT Blog, feel free to reach out to us at <a href="mailto:info@itblog.com">info@itblog.com</a>. We value your input and will respond to your inquiries as soon as possible.
+    If you have any questions, suggestions, or feedback regarding the IT Blog, feel free to reach out to us at <a href="mailto:chris.mills@wrvblaw.com"><i class="fa-solid fa-envelope"></i></a>. We value your input and will respond to your inquiries as soon as possible.
   </p>
 
 </body>
