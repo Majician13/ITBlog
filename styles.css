@@ -103,3 +103,25 @@ footer {
   background-color: #e0e0e0;
 }
 
+
+.table-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.table-container table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.table-container td {
+  padding: 10px;
+  /* border: 1px solid #ccc; */
+}
+
+.table-container img {
+  max-width: 50%;
+  height: auto;
+  margin-right: 5px;
+}
