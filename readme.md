@@ -24,7 +24,7 @@
 
   <h2 id="installation">Installation</h2>
   <p>
-    To access the blog posts, simply visit the <a href="https://example.com/itblog">IT Blog website</a> and navigate through the different articles. The blog posts are organized into categories and can be easily searched using the provided search functionality.
+    To access the blog posts, simply visit the <a href="https://majician13.github.io/ITBlog/">IT Blog website</a> and navigate through the different articles. The blog posts are organized into categories and can be easily searched using the provided search functionality.
   </p>
 
   <h2 id="usage">Usage</h2>
