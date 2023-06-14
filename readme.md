@@ -3,53 +3,7 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>IT Blog</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      margin: 20px;
-    }
-    h1 {
-      font-size: 24px;
-      margin-bottom: 20px;
-    }
-    h2 {
-      font-size: 20px;
-      margin-bottom: 10px;
-    }
-    h3 {
-      font-size: 18px;
-      margin-bottom: 10px;
-    }
-    p {
-      margin-bottom: 10px;
-    }
-    a {
-      color: #0366d6;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    ul, ol {
-      margin-top: 0;
-      margin-bottom: 10px;
-    }
-    li {
-      margin-bottom: 5px;
-    }
-    pre {
-      background-color: #f6f8fa;
-      border-radius: 3px;
-      font-size: 14px;
-      padding: 10px;
-    }
-    code {
-      font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
-      font-size: 14px;
-    }
-  </style>
+  <!-- Deleted header info.  Was showing in actual readme. -->
 </head>
 <body>
   <h1>IT Blog</h1>
